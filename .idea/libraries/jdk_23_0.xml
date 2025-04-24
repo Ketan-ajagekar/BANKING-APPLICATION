@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdk-23.0">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../Program Files/Java/jdk-23.0.2" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
