@@ -20,13 +20,17 @@ This system is designed using **Java Swing** for the frontend and **MySQL** for 
 
 ## Screenshots 
 First Signup Frame
+
 ![image alt](https://github.com/Ketan-ajagekar/BANKING-APPLICATION/blob/master/Screenshot%202025-03-24%20195646.png?raw=true)
 
 Second Signup Frame
+
 ![image alt](https://github.com/Ketan-ajagekar/BANKING-APPLICATION/blob/master/Screenshot%202025-03-24%20200913.png?raw=true)
 
 Third Signup Frame
+
 ![image alt](https://github.com/Ketan-ajagekar/BANKING-APPLICATION/blob/master/Screenshot%202025-03-24%20201425.png?raw=true)
 
 Login Frame
-![image alt]()
+
+![image alt](https://github.com/Ketan-ajagekar/BANKING-APPLICATION/blob/master/Screenshot%202025-03-24%20202144.png?raw=true)
