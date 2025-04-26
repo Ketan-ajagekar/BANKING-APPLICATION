@@ -8,7 +8,7 @@ This system is designed using **Java Swing** for the frontend and **MySQL** for 
 - 🔐 **Secure Login:** User authentication using card number and PIN.
 - 💰 **Money Transfer:** Transfer funds using card number and PIN instead of account numbers.
 - 📄 **View Balance:** Users can check their current account balance.
-- 🧾 **Transaction History:** Displays a record of previous transactions (optional feature).
+- 🧾 **Transaction History:** Displays a record of previous transactions.
 - 🏦 **Banking Operations:** Includes deposit, withdrawal, and balance inquiry.
 
 ## 🛠️ Technologies Used
