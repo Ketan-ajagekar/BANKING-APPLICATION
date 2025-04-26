@@ -17,3 +17,5 @@ This system is designed using **Java Swing** for the frontend and **MySQL** for 
 - **Database:** MySQL
 - **IDE:** IntelliJ IDEA
 - **Database Tool:** MySQL Workbench
+
+![image alt](https://github.com/Ketan-ajagekar/BANKING-APPLICATION/blob/master/Screenshot%202025-03-24%20195646.png?raw=true)
