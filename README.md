@@ -23,7 +23,7 @@ First Signup Frame
 ![image alt](https://github.com/Ketan-ajagekar/BANKING-APPLICATION/blob/master/Screenshot%202025-03-24%20195646.png?raw=true)
 
 Second Signup Frame
-![image alt]()
+![image alt](https://github.com/Ketan-ajagekar/BANKING-APPLICATION/blob/master/Screenshot%202025-03-24%20200913.png?raw=true)
 
 Third Signup Frame
 ![image alt]()
