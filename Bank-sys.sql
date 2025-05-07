@@ -44,16 +44,11 @@ INSERT INTO bank (pin, type, amount)VALUES ('123456', 'Deposit', 500);
 SELECT * FROM bank WHERE pin = '123456';
 ALTER TABLE bank MODIFY pin VARCHAR(10) DEFAULT '0000';
 
-
-
 DROP TABLE IF EXISTS bank;
 CREATE TABLE bank (id INT AUTO_INCREMENT PRIMARY KEY, pin VARCHAR(6) NOT NULL,card_number VARCHAR(16) NOT NULL ,type ENUM('Deposit', 'Withdrawal') NOT NULL,amount INT NOT NULL,date DATETIME DEFAULT CURRENT_TIMESTAMP,FOREIGN KEY (card_number) REFERENCES login(card_number) ON DELETE CASCADE);
 UPDATE bank SET card_number = (SELECT card_number FROM login LIMIT 1)WHERE card_number IS NULL OR card_number = '';
 SHOW CREATE TABLE bank;
 SELECT * FROM bank;
-SELECT COUNT(*) FROM bank WHERE card_number IS NULL;
-SELECT COUNT(*) FROM bank WHERE card_number = '';
-
 
 create table accounts(account_no varchar(10) PRIMARY KEY,  pin VARCHAR(6) NOT NULL, balance DECIMAL(10,2) NOT NULL);
 select * from accounts;
